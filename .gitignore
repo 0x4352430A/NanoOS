@@ -1,0 +1,10 @@
+# Build items: object files, image files, etc.
+*.o
+*.bin
+*.iso
+
+# Makefile
+Makefile
+
+# Visual Studio Code
+.vscode
